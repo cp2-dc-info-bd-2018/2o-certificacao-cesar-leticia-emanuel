@@ -1,4 +1,4 @@
-use escoladatitiateteca;	
+use escolinhadatitiateteca;	
 
 CREATE TABLE professor (
 idprofessor INT,
