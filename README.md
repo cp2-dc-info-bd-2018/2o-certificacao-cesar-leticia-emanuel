@@ -4,7 +4,7 @@ O trabalho de bancos de dados para esta certificação consiste em projetar e co
 
 ## Cronograma
 
-- [ ] Diagrama: até quinta-feira 13 de setembro
+- [X] Diagrama: até quinta-feira 13 de setembro
 - [ ] Script de criação: até o final da aula de 14 de setembro
 - [ ] Script de inserção: até o dia 17 de setembro
 
