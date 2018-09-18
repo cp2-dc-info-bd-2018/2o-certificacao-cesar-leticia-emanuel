@@ -6,6 +6,6 @@ O trabalho de bancos de dados para esta certificação consiste em projetar e co
 
 - [X] Diagrama: até quinta-feira 13 de setembro
 - [X] Script de criação: até o final da aula de 14 de setembro
-- [ ] Script de inserção: até o dia 17 de setembro
+- [X] Script de inserção: até o dia 17 de setembro
 
 O trabalho deverá ser desenvolvido em trios, de forma que cada trio deverá propor seu próprio problema. As entregas deverão ser feitas através do GitHub.
